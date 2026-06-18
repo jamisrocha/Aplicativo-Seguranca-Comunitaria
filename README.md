@@ -1,2 +1,8 @@
 # Aplicativo-Seguranca-Comunitaria
-Solução tecnológica mobile idealizada e desenvolvida como projeto de extensão universitária do curso de Engenharia de Software da Universidade Anhanguera. O aplicativo tem como foco o impacto social, visando auxiliar na segurança comunitária e na assistência a grupos vulneráveis.
+Estruturação do backlog do projeto e arquitetura da aplicação mobile.
+
+Desenvolvimento da interface de usuário utilizando Python e o framework KivyMD.
+
+Implementação da lógica de programação para alertas de emergência e regras de autenticação segura.
+
+Modelagem inicial de banco de dados para gerenciamento de usuários.
